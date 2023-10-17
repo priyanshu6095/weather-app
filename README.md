@@ -1,3 +1,5 @@
+Deployed website : https://shiny-chimera-7fd2c9.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
